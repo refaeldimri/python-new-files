@@ -23,5 +23,13 @@ class MyTestCase(unittest.TestCase):
     def test_simp_sub(self):
         assert self.simp.subNumbers(6, 7) == -1
 
+    def test_call_func_before_call_simp(self):
+        assert sum_of_digits(123) == "You Can not use this function before you use at least one simp class's function"
+
+    def test_call_func_after_call_simp(self):
+        self.simp.addNumbers(4, 34)
+        assert sum_of_digits(123) == 6
+
+
 
 
