@@ -1,0 +1,40 @@
+04/02/2023 15:44:08: test_sum_digits is FAILED with param: 123
+04/02/2023 15:45:50: test_sum_digits is FAILED with param: 123
+04/02/2023 15:46:08: test_sum_digits is FAILED with param: 123
+04/02/2023 15:46:25: test_sum_digits is FAILED with param: 123
+04/02/2023 15:47:17: test_sum_digits is FAILED with param: 123
+04/02/2023 15:47:39: test_sum_digits is FAILED with param: 123
+04/02/2023 15:57:15: test_sum_digits is PASS(5, 10)
+04/02/2023 15:58:14: test_sum_digits is PASSwith param: (5, 10)
+04/02/2023 15:58:34: test_sum_digits is PASS with param: (5, 10)
+04/02/2023 15:59:25: test_sum_digits is PASS with param: (5, 10)
+04/02/2023 16:00:27: test_add_numbers is PASS with param: (5, 10)
+04/02/2023 16:01:03: test_sub_numbers is PASS with param: (5, 10)
+04/02/2023 16:03:26: test_sum_digits is FAILED with param: 123
+04/02/2023 16:04:25: test_sum_digits is FAILED with param: 123
+04/02/2023 16:04:53: test_sum_digits is FAILED with param: 123
+04/02/2023 16:05:18: test_sum_digits is FAILED with param: 123
+04/02/2023 16:05:30: test_sum_digits is FAILED with param: 123
+04/02/2023 16:05:57: test_sum_digits is PASS with param: 123
+04/02/2023 16:06:16: test_sum_digits is PASS with param: 123
+04/02/2023 16:08:10: test_sum_digits_neg is FAILED with param: 123
+04/02/2023 16:12:31: test_sum_digits_neg is FAILED with param: 123You Can not use this function before you use at least one simp class's function
+04/02/2023 16:12:58: test_sum_digits_neg is FAILED with param: 123 You Can not use this function before you use at least one simp class's function
+04/02/2023 16:13:16: test_sum_digits_neg is FAILED with param: 123. You Can not use this function before you use at least one simp class's function
+04/02/2023 16:26:27: test_compress is PASS
+04/02/2023 16:27:51: test_compress is PASS
+04/02/2023 16:29:54: test_sum_digits is PASS with param: 123
+04/02/2023 16:30:16: test_sum_digits_neg is FAILED with param: 123. You Can not use this function before you use at least one simp class's function
+04/02/2023 16:52:46: test_compress is PASS
+04/02/2023 16:53:09: test_compress is PASS
+04/02/2023 16:54:26: test_sum_digits is PASS with param: 123
+04/02/2023 16:55:29: test_sum_digits is PASS with param: 123
+04/02/2023 16:55:46: test_sum_digits_neg is FAILED with param: 123. None
+04/02/2023 16:57:55: test_sum_digits_neg is FAILED with param: 123. None
+04/02/2023 16:58:22: test_sum_digits_neg is FAILED with param: 123. None
+04/02/2023 16:59:14: test_sum_digits_neg is FAILED with param: 123. None
+04/02/2023 17:00:33: test_sum_digits_neg is FAILED with param: 123. You Can not use this function before you use at least one simp class's function
+04/02/2023 17:01:58: test_sum_digits_neg is FAILED with param: 123. You Can not use this function before you use at least one simp class's function
+04/02/2023 17:02:06: test_sum_digits is PASS with param: 123
+04/02/2023 17:02:16: test_add_numbers is PASS with param: (5.0, 10.0)
+04/02/2023 17:02:31: test_sub_numbers is PASS with param: (5.0, 10.0)
